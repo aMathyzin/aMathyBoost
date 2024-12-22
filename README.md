@@ -55,7 +55,7 @@
 
 ## 🖼️ Pré-visualização
 
-![aMathyBoost Preview](https://via.placeholder.com/600x300?text=Preview+Image)  
+![aMathyBoost Preview](./assets/screenshotamathy.png)  
 **Tela inicial do aMathyBoost mostrando opções de otimização.**
 
 ---

@@ -1,6 +1,6 @@
 # aMathyBoost
 
-![aMathyBoost Banner](./assets/aMathyzin2 (1).png)  
+![aMathyBoost Banner](./assets/amathyzin.png)  
 **A solução definitiva para otimizar o desempenho do seu sistema!**
 
 [![Versão](https://img.shields.io/badge/Vers%C3%A3o-1.0.0-blue)](https://github.com/aMathyzin/aMathyBoost) [![Build Status](https://img.shields.io/badge/Status-Estável-brightgreen)](https://github.com/aMathyzin/aMathyBoost) [![Licença](https://img.shields.io/badge/Licen%C3%A7a-Propriet%C3%A1ria-red)](LICENSE)

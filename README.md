@@ -75,7 +75,7 @@ Este projeto é distribuído sob a licença proprietária. Consulte o arquivo [L
 
 ## ❤️ Agradecimentos
 
-- **aMathyzin** pela criação e suporte contínuo.
+- **Memphis** pela criação e suporte contínuo.
 - Comunidade do Discord por feedback e sugestões.
 
 > Feito com ❤️ pela equipe aMathyzin!
